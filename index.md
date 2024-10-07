@@ -4,6 +4,6 @@ Hello! I'm Isabelle Layon, a Computer Science student at UCSD. My favorite progr
 
 ## Videos
 
-### [![Show What You Know: Explain Your Program](https://img.youtube.com/vi/_y0gyNspOEw0?si=lN8mi7oVwGfAuKD-/0.jpg)](https://www.youtube.com/watch?v=y0gyNspOEw0?si=lN8mi7oVwGfAuKD-)
+### [![Show What You Know: Explain Your Program](https://img.youtube.com/vi/y0gyNspOEw0/0.jpg)](https://www.youtube.com/watch?v=y0gyNspOEw0?si=lN8mi7oVwGfAuKD-)
 
 
