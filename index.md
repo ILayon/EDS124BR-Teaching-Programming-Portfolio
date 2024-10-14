@@ -12,3 +12,6 @@ Hello! I'm Isabelle Layon, a Computer Science student at UCSD. My favorite progr
 
 ### [![Show What You Know: Write and Explain A Program](https://img.youtube.com/vi/N8z9v--hirQ/0.jpg)](https://www.youtube.com/watch?v=N8z9v--hirQ)
 
+## Animal Parade
+
+### [![Animal Parade](https://img.youtube.com/vi/WE7E_2Vj-ZM/0.jpg)](https://www.youtube.com/watch?v=WE7E_2Vj-ZM)
