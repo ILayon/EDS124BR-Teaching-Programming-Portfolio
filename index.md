@@ -15,3 +15,15 @@ Hello! I'm Isabelle Layon, a Computer Science student at UCSD. My favorite progr
 ## Animal Parade
 
 ### [![Animal Parade](https://img.youtube.com/vi/WE7E_2Vj-ZM/0.jpg)](https://www.youtube.com/watch?v=WE7E_2Vj-ZM)
+
+## Nested Repeats
+
+### [![Nested Repeats](https://img.youtube.com/vi/hRPBnnagi1c/0.jpg)](https://www.youtube.com/watch?v=hRPBnnagi1c)
+
+## Events
+
+### [![Events](https://img.youtube.com/vi/VGfJVKWS5Hk/0.jpg)](https://www.youtube.com/watch?v=VGfJVKWS5Hk)
+
+## Variables
+
+### [![Variables](https://img.youtube.com/vi/E7fEJJ7GFr4/0.jpg)](https://www.youtube.com/watch?v=E7fEJJ7GFr4)
