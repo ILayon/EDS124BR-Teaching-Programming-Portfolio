@@ -27,3 +27,7 @@ Hello! I'm Isabelle Layon, a Computer Science student at UCSD. My favorite progr
 ## Variables
 
 ### [![Variables](https://img.youtube.com/vi/E7fEJJ7GFr4/0.jpg)](https://www.youtube.com/watch?v=E7fEJJ7GFr4)
+
+## Conditional Loops
+
+### [![Conditional Loops](https://img.youtube.com/vi/VM12rMzCyF8/0.jpg)](https://www.youtube.com/watch?v=VM12rMzCyF8)
