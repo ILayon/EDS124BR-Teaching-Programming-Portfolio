@@ -31,3 +31,7 @@ Hello! I'm Isabelle Layon, a Computer Science student at UCSD. My favorite progr
 ## Conditional Loops
 
 ### [![Conditional Loops](https://img.youtube.com/vi/VM12rMzCyF8/0.jpg)](https://www.youtube.com/watch?v=VM12rMzCyF8)
+
+## If Else
+
+### [![If Else](https://img.youtube.com/vi/OkEU6q6KDCI/0.jpg)](https://www.youtube.com/watch?v=OkEU6q6KDCI)
