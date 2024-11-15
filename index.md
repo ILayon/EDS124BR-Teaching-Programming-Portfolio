@@ -35,3 +35,7 @@ Hello! I'm Isabelle Layon, a Computer Science student at UCSD. My favorite progr
 ## If Else
 
 ### [![If Else](https://img.youtube.com/vi/OkEU6q6KDCI/0.jpg)](https://www.youtube.com/watch?v=OkEU6q6KDCI)
+
+## Nested If Else
+
+### [![Nested If Else](https://img.youtube.com/vi/PVpsryFYNRY/0.jpg)](https://www.youtube.com/watch?v=PVpsryFYNRY)
