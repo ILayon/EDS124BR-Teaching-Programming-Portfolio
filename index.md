@@ -43,3 +43,8 @@ Hello! I'm Isabelle Layon, a Computer Science student at UCSD. My favorite progr
 ## Compound Conditionals
 
 ### [![Compound Conditionals](https://img.youtube.com/vi/pX9r4uU0kH4/0.jpg)](https://www.youtube.com/watch?v=pX9r4uU0kH4)
+
+## Abstraction
+
+### [![Abstraction](https://img.youtube.com/vi/y01cmfN_suI/0.jpg)](https://www.youtube.com/watch?v=y01cmfN_suI)
+
